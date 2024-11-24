@@ -12,7 +12,7 @@ I'm a Computer Engineering student with a passion for game development and web d
 ## Projects
 Here are a few of my ongoing projects:
 
-- **Little Lemon Restaurant Site** – An interactive website showcasing a fictional restaurant's menu.
+- **LittleLemon Restaurant Site** – An interactive website showcasing a fictional restaurant's menu.
 - **Image Uploader** - An interactive web application that allows users to upload and manage images with ease.
 - **TextUtils** - A tool designed to perform various text operations.
 - **Hangman Game** - A word-guessing game where players try to guess the hidden word letter by letter.
